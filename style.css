@@ -9,9 +9,12 @@ li{
 }
 
 body {
-	background-color: purple;
+	background-color: black;
 }
 
 a {
 	color: yellow;
+}
+label {
+	color: white;
 }
